@@ -11,8 +11,8 @@ namespace SortByStringLength
         static void Main(string[] args)
         {
 
-            string input = "some text";
-            Console.WriteLine(input);
+
+            string[] inputs = new int[];
         }
     }
 }
